@@ -1,0 +1,11 @@
+id,type,latitude,longitude,radius_m,severity,reported_at,reported_by,status,description
+HAZ001,flood,31.6150,74.8800,800,high,2024-07-15T14:30:00Z,citizen_app,active,"Low-lying area near Golden Temple - water level 1.2m"
+HAZ002,flood,31.6280,74.8950,500,medium,2024-07-15T15:00:00Z,municipal_sensor,active,"Railway underpass flooded - impassable"
+HAZ003,fire,31.6400,74.8500,300,high,2024-07-15T16:45:00Z,fire_dept,active,"Warehouse fire in industrial area - smoke spreading"
+HAZ004,debris,31.6350,74.8700,200,medium,2024-07-15T17:10:00Z,citizen_app,active,"Building collapse near Hall Bazaar - road blocked"
+HAZ005,crowd,31.6200,74.8765,1000,high,2024-07-15T18:00:00Z,predictive,active,"Mass gathering at Golden Temple - stampede risk"
+HAZ006,traffic,31.6340,74.8723,1500,low,2024-07-15T18:30:00Z,traffic_camera,active,"Heavy congestion on Mall Road"
+HAZ007,flood,31.6500,74.8600,600,medium,2024-07-15T19:00:00Z,municipal_sensor,active,"Ranjit Avenue Sector 3 - waterlogging"
+HAZ008,structural,31.6250,74.8550,150,high,2024-07-15T19:30:00Z,citizen_app,active,"Cracked building near Katra Jaimal Singh - evacuation advised"
+HAZ009,chemical,31.6550,74.8300,1000,high,2024-07-15T20:00:00Z,industry_alert,active,"Gas leak at focal point industrial area"
+HAZ010,debris,31.6100,74.8900,250,low,2024-07-15T20:30:00Z,citizen_app,cleared,"Fallen tree on GT Road - cleared by municipal team"

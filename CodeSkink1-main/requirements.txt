@@ -1,0 +1,13 @@
+streamlit==1.37.1
+folium==0.16.0
+streamlit-folium==0.17.0
+pandas==2.2.2
+numpy==1.26.4
+requests==2.32.3
+pydantic==2.7.4
+python-dotenv==1.0.1
+geopy==2.4.1
+networkx==3.3
+haversine==2.8.0
+pillow==10.4.0
+plotly==5.22.0

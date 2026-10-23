@@ -1,0 +1,41 @@
+# LifeLine Navigator — Streamlit Configuration
+# Place in ~/.streamlit/config.toml or .streamlit/config.toml
+
+[server]
+port = 8501
+address = "0.0.0.0"
+headless = true
+enableCORS = false
+enableXsrfProtection = true
+maxUploadSize = 200
+maxMessageSize = 200
+
+[browser]
+gatherUsageStats = false
+serverAddress = "localhost"
+serverPort = 8501
+
+[theme]
+primaryColor = "#dc2626"
+backgroundColor = "#0f172a"
+secondaryBackgroundColor = "#1e293b"
+textColor = "#f8fafc"
+font = "sans serif"
+
+[runner]
+magicEnabled = true
+installTracer = false
+fixMatplotlib = true
+postScriptGC = true
+
+[logger]
+level = "info"
+messageFormat = "%(asctime)s %(levelname)s %(name)s: %(message)s"
+
+[global]
+developmentMode = false
+showWarningOnDirectExecution = false
+
+[deprecation]
+showPyplotGlobalUse = false
+showfileUploaderEncoding = false
